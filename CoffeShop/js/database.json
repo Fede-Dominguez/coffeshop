@@ -1,0 +1,24 @@
+[{ 
+    "name":"Cafetera Francesa",
+    "description":"Cafetera tetera con embolo",
+    "price":1275,
+    "stock":11,
+    "image":"https://http2.mlstatic.com/D_NQ_NP_672260-MLA31651563208_082019-O.webp"
+},
+{
+    "name":"Cafetera Nescafé",
+    "description":"Cafetera Nescafé con capsulas",
+    "price":15294,
+    "stock":19,
+    "image":"https://http2.mlstatic.com/D_NQ_NP_990780-MLA32625550001_102019-O.webp"
+},
+{
+    "name":"Cafetera Nescafé Moulinex",
+    "description":"Cafetera Nescafé Moulinex con capsulas",
+    "price":19899,
+    "stock":4,
+    "image":"https://http2.mlstatic.com/D_NQ_NP_644232-MLA32628132716_102019-O.webp"
+}]
+
+
+

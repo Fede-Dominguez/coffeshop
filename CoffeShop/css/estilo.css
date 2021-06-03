@@ -1,0 +1,113 @@
+#cargando {
+    display: none;
+}
+
+#tt{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#tdimage {
+    position: left;
+    width: 15%;
+}
+
+#image {
+    width: 70px;
+}
+
+#pname {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Oswald';
+    color: rgb(61, 59, 59);
+    width: 73%;
+    font-weight: lighter;
+}
+
+#price {
+    color: rgb(61, 59, 59);
+    font-size: 25px;
+    font-family: 'Oswald';
+    width: 80%;
+    font-weight: lighter;
+}
+
+#button {
+    border-style: none;
+    border-color: white;
+}
+
+#ima {
+    border-color: red;
+    margin-left: 4rem;
+    width: 40%;
+}
+
+#ima1 {
+    margin-bottom: 2.6rem;
+}
+
+#productos{
+    border:12rem;
+    margin-top:1rem;
+    margin-left:1rem;
+    display:flex;
+    flex-wrap:wrap;
+}
+
+#image1{
+    width:25%;
+}
+
+#coffemaker{
+    border:12rem;
+    margin-top:1rem;
+    margin-left:1rem;
+    display:flex;
+    flex-wrap:wrap;
+}
+
+#circulo{
+    width: 53px;
+}
+
+#colorbrn{
+    background-color: black;
+}
+
+#total{
+    float: left;
+    color: rgb(61, 59, 59);
+    font-size: 25px;
+    font-family: 'Oswald';
+    font-weight: bolder;
+    margin-left: 0.5%;
+}
+
+#price2{
+    float: right;
+    margin-right: 9.5%;
+    color: rgb(61, 59, 59);
+    font-size: 25px;
+    font-family: 'Oswald';
+    font-weight: bolder;
+} 
+
+#totalprecio{
+    border-top-style: dashed;
+    border-color: rgb(61, 59, 59);
+    display: block;
+    width: 100%;
+    padding-top: 0.75%;
+    margin-top: 0.75%;
+    margin-bottom: 1.5%;
+}
+
+#ima2{
+    display:block;
+    margin:auto;
+    border-radius: 5rem;
+    border-color: grey;
+    width: 80%;
+}
